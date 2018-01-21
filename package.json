@@ -1,5 +1,5 @@
 {
-  "name": "object-map",
+  "name": "@seangenabe/object-map",
   "version": "1.0.0",
   "description": "TypeScript helper. Object as map keyed by string.",
   "scripts": {
