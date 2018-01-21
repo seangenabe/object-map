@@ -13,3 +13,7 @@ type ObjectMap<T = any> = { [key: string]: T }
 ```typescript
 import ObjectMap from '@seangenabe/object-map'
 ```
+
+## License 
+
+MIT / CC0-1.0 dual license
